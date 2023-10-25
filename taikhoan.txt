@@ -1,0 +1,6 @@
+Đăng nhập với quyền quản trị bằng tài khoản
+	Tài khoản: admin
+	Mật khẩu: 1
+
+Run file composer-Setup.exe và 7z2301-x64.exe để sử dụng được composer
+Chạy lênh terminal: composer require mpdf/mpdf để sử dụng thư viện mpdf
